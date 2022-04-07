@@ -4,6 +4,9 @@ import "./Home.css"
 import skill1 from "../Pic/skill1.png"
 import skill2 from "../Pic/skill2.png"
 import skill3 from "../Pic/skill3.png"
+import skill4 from "../Pic/skill4.png"
+import skill5 from "../Pic/skill5.png"
+import skill6 from "../Pic/skill6.png"
 import { Typewriter } from 'react-simple-typewriter'
 
 
@@ -56,6 +59,15 @@ export const Home = () => {
                             </button>
                             <button className='btn_shadow'>
                                 <img src={skill3} alt='' />
+                            </button>
+                            <button className='btn_shadow'>
+                                <img src={skill4} alt='' />
+                            </button>
+                            <button className='btn_shadow'>
+                                <img src={skill5} alt='' />
+                            </button>
+                            <button className='btn_shadow'>
+                                <img src={skill6} alt='' />
                             </button>
                         </div>
                     </div>
