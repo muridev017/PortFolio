@@ -11,7 +11,7 @@ import { Typewriter } from 'react-simple-typewriter'
 export const Home = () => {
     return (
         <>
-            <section className='hero' id='home'>
+            <section className='hero' id='inicio'>
                 <div className='container.f_flex top'>
                     <div className='left top'>
                         <h3>SEJA BEM-VINDO</h3>

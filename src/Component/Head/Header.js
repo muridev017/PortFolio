@@ -22,16 +22,10 @@ const Header = () => {
                 <a href='#inicio'>início</a>
               </li>
               <li>
-                <a href='#recursos'>recursos</a>
+                <a href='#projetos'>projetos</a>
               </li>
               <li>
                 <a href='#curriculo'>currículo</a>
-              </li>
-              <li>
-                <a href='#clientes'>clientes</a>
-              </li>
-              <li>
-                <a href='#blog'>github</a>
               </li>
               <li>
                 <a href='#contato'>contato</a>

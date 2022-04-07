@@ -4,6 +4,8 @@ import Home from "./Component/Hero/Home"
 import './App.css'
 import Features from './Component/Features/Features'
 import Resume from './Component/Resume/Resume'
+import Contact from './Component/Contact/Contact'
+import Footer from './Component/Footer'
 
 const App = () => {
   return (
@@ -12,6 +14,8 @@ const App = () => {
     <Home />
     <Features/>
     <Resume />
+    <Contact />
+    <Footer/>
     </>
   )
 }

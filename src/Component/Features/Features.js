@@ -6,7 +6,7 @@ import "./Features.css"
 const Features = () => {
   return (
     <>
-        <section className='features top' id='features'>
+        <section className='features top' id='projetos'>
             <div className='container'>
                 <div className='heading'>
                     <h4>Projetos</h4>
